@@ -1,7 +1,7 @@
 .grid{
     border: 1px solid black;
-    height: 190px;
-    width: 190px;
+    height: 180px;
+    width: 180px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -20,7 +20,25 @@
     background-color: blue;
 }
 
-.log-left, .log-right{
+
+.l1, .l2, .l3{
+    background-color: brown;
+}
+
+.l4,.l5{
     background-color: lightblue;
 }
 
+.c1 {
+    background-color: black;
+}
+
+.c2,
+.c3{
+    background-color: lightgray;
+}
+
+
+.frog{
+    background-color: green;
+}
